@@ -7,3 +7,4 @@ echo -e "\x32" > /sys/class/misc/tm1650/first
 echo -e "\x33" > /sys/class/misc/tm1650/second   
 echo -e "\x33" > /sys/class/misc/tm1650/third   
 echo -e "\x33" > /sys/class/misc/tm1650/fourth   
+![image](https://github.com/wutakenmyname/tm1650_rk3568_driver/blob/main/1720276176319.jpg)
